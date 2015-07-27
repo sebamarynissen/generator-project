@@ -1,0 +1,35 @@
+{
+  "name": "generator-project",
+  "version": "0.0.1",
+  "description": "Generator for web application projects how I like them.",
+  "license": "MIT",
+  "main": "app/generators/index.js",
+  "repository": "sebamarynissen/generator-project",
+  "author": {
+    "name": "Sebastiaan Marynissen",
+    "email": "sebastiaan.marynissen@gmail.com",
+    "url": "https://github.com/sebamarynissen"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "ast-query": "^1.0.1",
+    "chalk": "^1.0.0",
+    "cheerio": "^0.19.0",
+    "fs-extra": "^0.22.1",
+    "js-beautify": "^1.5.10",
+    "underscore": "^1.8.3",
+    "yeoman-generator": "^0.19.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

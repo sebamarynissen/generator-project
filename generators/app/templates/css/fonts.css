@@ -1,0 +1,54 @@
+@font-face {
+    
+    font-family: 'Lato';
+    font-style: normal;
+    src: url(Lato-Light.ttf);
+    
+}
+@font-face {
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    src: url(Quicksand-Regular.otf);
+    
+}
+
+@font-face {
+    
+    font-family: 'Walkway';
+    font-style: normal;
+    src: url(Walkway.ttf);
+    
+}
+
+@font-face {
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    src: url(SourceSansPro-Regular.ttf);
+    
+}
+
+@font-face {
+    font-family: 'Aliquam';
+    font-style: ultra-light;
+    src: url(Aliquam.ttf);
+}
+
+@font-face {
+    font-family: 'Bank Gothic Light';
+    font-style: light;
+    src: url(bankgthl.ttf);
+}
+
+/**
+ * WOLF ICON FONT
+ * http://wpwolf.com/plugin/wolf-icons/
+ */
+@font-face {
+  font-family: 'WolfIconFont';
+  src: url("icomoon.eot");
+  src: url("icomoon.eot?#iefix") format("embedded-opentype"), url("icomoon.svg#icomoon") format("svg"), url("icomoon.woff") format("woff"), url("icomoon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
