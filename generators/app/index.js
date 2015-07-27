@@ -23,12 +23,12 @@ module.exports = yeoman.generators.Base.extend({
 
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the swell ' + chalk.red('Tryout') + ' generator!'
+      'Welcome to the swell ' + chalk.red('Project') + ' generator!'
     ));
 
     var prompts = [{
       "name": "appName",
-      "message": "What is your tryout's name?"
+      "message": "What is your project's name?"
     }, {
       "name": "requirejs",
       "message": "Do you want to use requirejs?",
