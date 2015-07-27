@@ -1,8 +1,8 @@
-## Yeoman Project Generator
+# Yeoman Project Generator
 
 I made this yeoman generator for initializing web application projects how I like them. It's meant for personal use. If you want to use it, use it. If you don't, then don't.
 
-### Running the generator
+## Running the generator
 
 Since the generator isn't published on npm, you'll have to clone the repository and then run
 ```bash
